@@ -24,7 +24,6 @@ fitParser.parse(content, (error: any, data: any) => {
   }
 });
 
-// console.log(result);
 // console.log(result.activity);
 // console.log(result.activity.sessions[0]);
 // console.log(result.activity.sessions[0].laps[0].records);
